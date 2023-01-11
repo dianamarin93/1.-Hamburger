@@ -1,6 +1,2 @@
 # 1.-Hamburger
-Hamburger Button
-button + hamburger icon
-menu > li > a -> hidden
-toggle on click
-animation
+This project contain: button & hamburger icon,  menu, animation and when we click on the button, it switches;
